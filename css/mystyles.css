@@ -1,0 +1,14 @@
+h1 {
+	margin: -.2em 0em 0em;
+	padding: 0;
+	}
+
+#collapsable-nav li {
+	background: #282186;
+}
+
+#main-content {
+	padding: 3em;
+	background: #3df71d;
+	height: 1000px;
+}
